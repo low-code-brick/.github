@@ -10,9 +10,9 @@
 
 通过拖拉拽快速生成HTML的项目. 参考: [拉易网](https://www.drageasy.com)
 
-📢 [live demo](https://pinghuazhuang.github.io/easy-html/)
+📢 [Live demo](https://pinghuazhuang.github.io/easy-html/)
 
-<img src="https://git.poker/PinghuaZhuang/note/blob/master/images-upload/h-generator.4llm8u71pwk0.gif?raw=true" alt="h-generator" style="zoom: 33%;" />
+<img src="https://git.poker/PinghuaZhuang/note/blob/master/images-upload/h-generator.4llm8u71pwk0.gif?raw=true" alt="h-generator" style="zoom:33%;" />
 
 
 
