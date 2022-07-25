@@ -2,6 +2,8 @@
 
 > 这一切还得从造轮子开始~
 
+
+
 ## 🎉 仿拉易网, 拖拉拽生成HTML
 
 [![Deploy to GitHub Pages Easy draggable html.](https://github.com/PinghuaZhuang/h-generator/actions/workflows/deploy.yml/badge.svg?branch=master&event=push)](https://github.com/PinghuaZhuang/h-generator/actions/workflows/deploy.yml) 
@@ -10,7 +12,9 @@
 
 📢 [live demo](https://pinghuazhuang.github.io/easy-html/)
 
-![h-generator](./images/h-generator.gif)
+<img src="https://git.poker/PinghuaZhuang/note/blob/master/images-upload/h-generator.4llm8u71pwk0.gif?raw=true" alt="h-generator" style="zoom: 50%;" />
+
+
 
 ## 🎯 仿易企秀, 快速生成活动页
 
