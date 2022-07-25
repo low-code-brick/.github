@@ -12,7 +12,7 @@
 
 📢 [live demo](https://pinghuazhuang.github.io/easy-html/)
 
-<img src="https://git.poker/PinghuaZhuang/note/blob/master/images-upload/h-generator.4llm8u71pwk0.gif?raw=true" alt="h-generator" style="zoom: 50%;" />
+<img src="https://git.poker/PinghuaZhuang/note/blob/master/images-upload/h-generator.4llm8u71pwk0.gif?raw=true" alt="h-generator" style="zoom: 33%;" />
 
 
 
