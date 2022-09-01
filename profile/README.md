@@ -6,8 +6,6 @@
 
 ## 🎯 仿易企秀, 快速生成活动页
 
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/zphua2016@gmail.com/zprogress/blob/master/LICENSE)
-
 📢 DOING...
 
 ### MODUES
