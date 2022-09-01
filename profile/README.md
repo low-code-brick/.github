@@ -14,10 +14,12 @@
 
 - [ ] bricks
   - [ ] base-components
-- [ ] github-api
+- [x] github-api
 - [ ] wrapper
 - [ ] hephaestus
 - [ ] page
+- [ ] animate
+- [ ] document
 
 ### PLUGINS
 
