@@ -16,6 +16,13 @@
   - [ ] base-components
 - [x] github-api
 - [ ] wrapper
+  - [x] draggle
+  - [x] stretch
+  - [ ] rotate
+  - [x] tooltip
+  - [ ] wrapper-plugin-getSchema
+  - [ ] wrapper-plugin-panel
+  - [ ] wrapper-plugin-ruler
 - [ ] hephaestus
 - [ ] page
 - [ ] animate
